@@ -8,9 +8,9 @@ namespace YdevAcademy_Module_2
 {
     public class Dog : Pet
     {
-        public override string MakeSound()
-        {
-            return "Bark";
-        }
+        //public override string MakeSound()
+        //{
+        //    return "Bark";
+        //}
     }
 }
